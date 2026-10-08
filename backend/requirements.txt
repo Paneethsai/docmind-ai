@@ -1,0 +1,9 @@
+Flask
+flask-cors
+PyMuPDF
+sentence-transformers
+faiss-cpu
+google-genai
+python-dotenv
+numpy
+ddgs

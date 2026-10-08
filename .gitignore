@@ -1,0 +1,11 @@
+backend/venv/
+frontend/node_modules/
+frontend/dist/
+
+backend/.env
+
+uploads/*
+!uploads/.gitkeep
+
+__pycache__/
+*.pyc.env
